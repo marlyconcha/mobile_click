@@ -7,7 +7,7 @@ body {
 }
 
 ::selection {
-    background-color: #d5a6bd;
+    background-color: #fa5007;
     color: #ffffff;
 }
 
@@ -65,7 +65,7 @@ footer {
 
 .quote {
     text-align: center;
-    color: #a64d79;
+    color: #419f9e;
     font-size: medium;
 }
 
@@ -75,7 +75,7 @@ i {
 }
 
 .i_herramientas {
-    color: #a64d79;
+    color: #419f9e;
 }
 
 .icono {
@@ -96,8 +96,22 @@ p {
     width: 100%;
 }
 
+
+.button_mobile_content {
+    display: flex; 
+    justify-content: center;
+}
+
+.button_mobile {
+    background-color: #fa5007 !important;
+    color: #ffffff !important;
+    width: 50%;
+    display: flex; 
+    justify-content: center;
+}
+
 .informacion {
-    border-left: #d5a6bd solid 20px;
+    border-left: #88c7c7 solid 20px;
     padding: 5px 20px;
 }
 
@@ -105,7 +119,7 @@ h1 {
     background-color: #000000 !important;
     color: #ffffff;
     height: 100px;
-    width: 240px;
+    width: 460px;
     font-size: 3rem;
     text-transform: uppercase;
     text-align: start;
@@ -124,7 +138,7 @@ h2 {
     font-weight: 400;
     padding: 1rem;
     margin: 1rem;
-    border-left: #a64d79 solid 20px;
+    border-left: #5db1b2 solid 20px;
 }
 
 h3 {
