@@ -7,7 +7,7 @@ body {
 }
 
 ::selection {
-    background-color: #fa5007;
+    background-color: #FF9900;
     color: #ffffff;
 }
 
@@ -75,7 +75,7 @@ i {
 }
 
 .i_herramientas {
-    color: #419f9e;
+    color: #5BBFC0;
 }
 
 .icono {
@@ -96,6 +96,9 @@ p {
     width: 100%;
 }
 
+ul {
+    list-style-type:none;
+}
 
 .button_mobile_content {
     display: flex; 
@@ -103,7 +106,7 @@ p {
 }
 
 .button_mobile {
-    background-color: #fa5007 !important;
+    background-color: #FF3D00 !important;
     color: #ffffff !important;
     width: 50%;
     display: flex; 
@@ -138,7 +141,7 @@ h2 {
     font-weight: 400;
     padding: 1rem;
     margin: 1rem;
-    border-left: #5db1b2 solid 20px;
+    border-left: #5BBFC0 solid 20px;
 }
 
 h3 {
